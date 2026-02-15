@@ -5,7 +5,7 @@ A collaborative interactive map of Cali, Colombia, built with **Leaflet.js** and
 This project is designed as a hands-on exercise for teams to practice **Collaborative Development**, **Git Workflows**, and **Continuous Integration** concepts.
 
 ---
-
+## Test code
 ## 🚀 Collaborative Workflow Strategy
 
 Since we are working as a team, we need a strategy to manage our code changes efficiently without stepping on each other's toes. We will explore two popular methodologies: **Trunk Based Development** and **Gitflow**.
