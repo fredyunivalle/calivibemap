@@ -1,5 +1,7 @@
 # CaliVibeMap 🗺️
 
+## checking
+
 A collaborative interactive map of Cali, Colombia, built with **Leaflet.js** and **Vanilla JS**.
 
 This project is designed as a hands-on exercise for teams to practice **Collaborative Development**, **Git Workflows**, and **Continuous Integration** concepts.
