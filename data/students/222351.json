@@ -1,0 +1,10 @@
+{
+    "id": 4,
+    "name": "Liseth Rivera",
+    "lat": 3.375744333923099,
+    "lng": -76.5384744070411,
+    "photo": "https://randomuser.me/api/portraits/women/68.jpg",
+    "likes": ["Centro Comercial", "Naturaleza", "Baile"],
+    "dislikes": ["Tomate", "Pizza Hawaiana"],
+    "socialMedia": "@lisethnat"
+}
