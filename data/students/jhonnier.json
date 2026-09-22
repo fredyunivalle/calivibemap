@@ -1,0 +1,10 @@
+{
+    "id": 4,
+    "name": "Jhonnier Andres Becerra Ballesteros",
+    "lat": 3.249648,
+    "lng": -76.543261,
+    "photo": "https://github.com/Percyb4l.png",
+    "likes": ["Leer", "C#", "Voleibol", "Jugar World Of Warcraft"],
+    "dislikes": ["Compañeros poco colaboradores", "El calor"],
+    "socialMedia": "@Jhonnier717"
+}

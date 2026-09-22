@@ -1,0 +1,10 @@
+{
+    "id": 8,
+    "name": "Victoria Yuan C",
+    "lat": 3.437220,
+    "lng": -76.522500,
+    "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+    "likes": ["Libros", "Comida", "Gatos"],
+    "dislikes": ["Tráfico", "Ruido", "Clima muy caluroso"],
+    "socialMedia": "@victoria_yc"
+}

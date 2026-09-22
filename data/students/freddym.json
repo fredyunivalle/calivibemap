@@ -1,0 +1,10 @@
+{
+    "id": 22,
+    "name": "FREDDY ALEXANDER MELO BUITRAGO",
+    "lat": 3.5397,
+    "lng": -76.3033,
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["VIAJAR", "PROGRAMACION", "SALSA"],
+    "dislikes": ["GUERRAS", "Ruido"],
+    "socialMedia": "@FREDDYMELO"
+}

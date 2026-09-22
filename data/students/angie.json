@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "name": "Angie Valencia",
+  "lat": 3.37426,
+  "lng": -76.53937,
+  "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+  "likes": [
+    "Salsa",
+    "Perros",
+    "Café",
+    "Viajar",
+    "Cine",
+    "Alitas bbq"
+  ],
+  "dislikes": [
+    "Tráfico lento",
+    "Llegar tarde",
+    "Lugares demasiado llenos",
+    "Comida muy picante"
+  ],
+  "socialMedia": "@angie_valencia"
+}
